@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/psych/Repos/mlflow-timeseries-practice/Kaggle-Time-Series-Lessons/mlruns/0/75fc73f2eb60467299aad3fb159132bf/artifacts
+end_time: 1644728484230
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 75fc73f2eb60467299aad3fb159132bf
+run_uuid: 75fc73f2eb60467299aad3fb159132bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1644728483925
+status: 4
+tags: []
+user_id: psych
