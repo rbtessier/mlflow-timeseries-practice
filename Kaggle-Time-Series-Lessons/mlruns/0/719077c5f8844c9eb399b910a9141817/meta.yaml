@@ -2,7 +2,7 @@ artifact_uri: file:///C:/Users/psych/Repos/mlflow-timeseries-practice/Kaggle-Tim
 end_time: 1644729047033
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 name: ''
 run_id: 719077c5f8844c9eb399b910a9141817
 run_uuid: 719077c5f8844c9eb399b910a9141817
