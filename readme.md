@@ -12,8 +12,19 @@ To work with files over 50 mb with git, I needed to use git LFS for the files th
 
 ### Feb 13
 
-This weekend I am trying out code I found in the Kaggle Time Series tutorial for running linear regressions on time series data that model *serial dependence* using a `lag` feature and assign an ordering to the data
+Working on `Kaggle-Time-Series-Lessons`: This weekend I am trying out code I found in the Kaggle Time Series tutorial for running linear regressions on time series data that model *serial dependence* using a `lag` feature and assign an ordering to the data
 
 ### Feb 14
 
-Yesterday I learned a lot - I spent a ton of time just getting my figure to plot correctly and upload to MLFlow. Further I realized I was being dumb with my train-test split - I was splitting randomly instead of at a specific time.
+Working on `Kaggle-Time-Series-Lessons`: Yesterday I learned a lot - I spent a ton of time just getting my figure to plot correctly and upload to MLFlow. Further I realized I was being dumb with my train-test split - I was splitting randomly instead of at a specific time.
+
+### Feb 15
+
+List of things I need to do data science at scale
+
+- MLFlow - Tracking, Managing DS projects, Registering Model, Centralizing storage
+- virtual environment
+- Scripts - at least need following scripts
+    0. pre-processing script
+    0. training script
+    0. scoring script
