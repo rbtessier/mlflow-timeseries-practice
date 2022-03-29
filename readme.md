@@ -28,3 +28,7 @@ List of things I need to do data science at scale
     0. pre-processing script
     0. training script
     0. scoring script
+
+## Feb 24
+
+Continuing to work through Kaggle tunnel dataset - noticed a periodic pattern that was not captured by single day lag - instead the pattern of daily traffic through the commuter bridge depends on the day of the week. So introducing a second lag variable, shifted so that days of the week math led to significantly better model.
