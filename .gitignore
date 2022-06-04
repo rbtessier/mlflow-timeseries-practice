@@ -1,2 +1,5 @@
 # ignore dataset folder
 input - Store Sales Dataset/
+# ignore different mlFLow runs - these don't need to go into rep
+mlruns/
+
